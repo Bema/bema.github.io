@@ -1,2 +1,2 @@
 # bema.github.io
-Static Website
+Static Website Placeholder.
