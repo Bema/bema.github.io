@@ -1,2 +1,2 @@
-# [bema.github.io](htps://bema.github.io)
-Static Website Placeholder.
+# bema.github.io
+<a href="https://bema.github.io/" target="_blank">Static Website<a>.
